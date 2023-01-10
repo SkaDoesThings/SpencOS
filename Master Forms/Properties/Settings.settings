@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Master_Forms.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="selected_image_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="programmer_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Spencer Augenstein</Value>
+    </Setting>
+    <Setting Name="production_year" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2022-2023</Value>
+    </Setting>
+    <Setting Name="diary_username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="diary_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="diary_icon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\23AugensteinS\Documents\Udemy\C#\Master Forms\Applications\Diary\pfps\1.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
